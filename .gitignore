@@ -1,0 +1,12 @@
+# 大きなファイルを除外
+demo_data/
+releases/
+
+# Python関連
+__pycache__/
+*.pyc
+*.pyo
+
+# 一時ファイル
+*.tmp
+*.log
