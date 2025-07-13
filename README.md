@@ -23,8 +23,8 @@
 
 ### インストール方法
 ```bash
-git clone https://github.com/your-username/mass-spectrum-viewer.git
-cd mass-spectrum-viewer
+git clone https://github.com/knishino508/massspec_moving_textbook.git
+cd massspec_moving_textbook
 pip install -r requirements.txt
 python src/main.py
 ```
