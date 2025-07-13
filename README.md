@@ -11,9 +11,10 @@
 
 ## クイックスタート
 
-1. releasesから最新版をダウンロード
-2. `Massspec_moving_textbook.exe`を実行
-3. デモデータ`AminoAcid_DDA.parquet`を読み込み
+1. このページの右側にある「Release and Demo date」から.exeファイルとデモデータをダウンロード
+2. ダウンロード後に`Massspec_moving_textbook.exe`を実行
+3. 起動したらデモデータ`AminoAcid_DDA.parquet`を読み込み
+4. 各タブのデータ表示をクリックし、カーソルの右左で操作
 
 ## 開発者向けセットアップ
 
